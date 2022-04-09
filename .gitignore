@@ -1,0 +1,21 @@
+# -*- mode: gitignore; -*-
+out/
+result
+result-*
+.pre-commit-config.yaml
+
+.DS_Store
+node_modules
+*.log
+*.tgz
+build/
+dist/
+types/
+typechain/
+.env
+__pycache__
+.history
+.hypothesis/
+build/
+reports/
+/out
